@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.355abd18.chunk.css",
+    "main.js": "/static/js/main.537a7701.chunk.js",
+    "main.js.map": "/static/js/main.537a7701.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9bd7ec9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9bd7ec9.js.map",
+    "static/js/2.418f376c.chunk.js": "/static/js/2.418f376c.chunk.js",
+    "static/js/2.418f376c.chunk.js.map": "/static/js/2.418f376c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f94f91dbed7c8d5980c6be71ce9ae55.js": "/precache-manifest.9f94f91dbed7c8d5980c6be71ce9ae55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.355abd18.chunk.css.map": "/static/css/main.355abd18.chunk.css.map",
+    "static/js/2.418f376c.chunk.js.LICENSE.txt": "/static/js/2.418f376c.chunk.js.LICENSE.txt",
+    "static/media/JoelHeadshotFull.jpg": "/static/media/JoelHeadshotFull.93a8ac14.jpg",
+    "static/media/home-studio-desk.jpg": "/static/media/home-studio-desk.973f67b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9bd7ec9.js",
+    "static/js/2.418f376c.chunk.js",
+    "static/css/main.355abd18.chunk.css",
+    "static/js/main.537a7701.chunk.js"
+  ]
+}
